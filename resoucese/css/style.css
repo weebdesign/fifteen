@@ -101,6 +101,7 @@
   text-align: center;
   color: #fff;
   margin-bottom: 10px;
+visibility: hidden;
 }
 .border-text{
   text-align:center;
@@ -108,13 +109,15 @@
   display: block;
   margin-left: 3px;
   font-size: 13px;
+visibility: hidden;
 }
 .border{
   text-align: left;
   height: 1px;
-  width: 100%;
+  width: 90%;
   /* margin-top: 20px; */
   background-color: white;
+margin: auto;
 }
 .button-parent{
   /* margin-left:50%; */
